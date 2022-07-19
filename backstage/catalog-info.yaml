@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "rajivdd"
+  description: "making rajiv accessible"  
+  annotations:
+    github.com/project-slug: utkarshneo/jjkff
+    sonarqube.org/project-key: undefined-jjkff
+spec:
+  type: service
+  owner: "guests"
+  lifecycle: experimental
